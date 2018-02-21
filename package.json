@@ -1,10 +1,10 @@
 {
   "name": "linter-markuplint",
   "main": "./lib/index.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "description": "markuplint for Atom",
-  "repository": "https://github.com/atom/linter-markuplint",
+  "repository": "https://github.com/YusukeHirao/linter-markuplint",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
